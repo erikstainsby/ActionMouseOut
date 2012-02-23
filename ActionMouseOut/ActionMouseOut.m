@@ -19,7 +19,6 @@
     return self;
 }
 
-
 - (BOOL) hasSelectorField {
 	return YES;
 }

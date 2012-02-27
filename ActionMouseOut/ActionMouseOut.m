@@ -14,13 +14,10 @@
 	
     if( nil != (self = [super initWithNibName:nibNameOrNil	bundle:nibBundleOrNil]))
     {
-		[self setName: @"MouseOut"];
+		[self setPluginName: @"MouseOut"];
     }
     return self;
 }
 
-- (BOOL) hasSelectorField {
-	return YES;
-}
 
 @end

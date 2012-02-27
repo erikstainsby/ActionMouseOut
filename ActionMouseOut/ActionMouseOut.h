@@ -6,8 +6,8 @@
 //  Copyright (c) 2012 Roaring Sky. All rights reserved.
 //
 
-#import <RSTrixiePlugin/RSTrixiePlugin.h>
+#import <RSTrixiePlugin/RSActionPlugin.h>
 
-@interface ActionMouseOut : RSTrixiePlugin
+@interface ActionMouseOut : RSActionPlugin
 
 @end

@@ -47,6 +47,7 @@
 			isa = PBXGroup;
 			children = (
 				035309E714F05E4C002E9A5E /* ActionMouseOut */,
+				035309E814F05E4C002E9A5E /* Supporting Files */,
 				035309E014F05E4C002E9A5E /* Frameworks */,
 				035309DF14F05E4C002E9A5E /* Products */,
 			);
@@ -83,7 +84,6 @@
 		035309E714F05E4C002E9A5E /* ActionMouseOut */ = {
 			isa = PBXGroup;
 			children = (
-				035309E814F05E4C002E9A5E /* Supporting Files */,
 				03530A0414F062D8002E9A5E /* ActionMouseOut.h */,
 				03530A0514F062D8002E9A5E /* ActionMouseOut.m */,
 				03530A1714F064FF002E9A5E /* ActionMouseOut.xib */,
@@ -99,6 +99,7 @@
 				035309ED14F05E4C002E9A5E /* ActionMouseOut-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			path = ActionMouseOut;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -294,6 +295,7 @@
 				035309F214F05E4C002E9A5E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
